@@ -94,7 +94,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🧪 **9. Strategy Pattern**
+### 🧪 **9. [Strategy Pattern](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Strategy/Strategy.md>)**
 
 > Usato per astrarre comportamenti intercambiabili:
 
