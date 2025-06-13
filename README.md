@@ -50,7 +50,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🧼 **5. Decorator / HOC Pattern**
+### 🧼 **5. [Decorator](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Decorator.md>) / HOC Pattern**
 
 > Pattern classico React: Higher-Order Components (HOC).
 
