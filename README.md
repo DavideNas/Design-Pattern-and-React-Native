@@ -15,7 +15,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🧠 **2. MVI / MVVM Pattern**
+### 🧠 **2. [MVI](<https://github.com/DavideNas/Architectural-Patterns/blob/main/Architetture%20SW/MVI.md>) / [MVVM](<https://github.com/DavideNas/Architectural-Patterns/blob/main/Architetture%20SW/MVVM.md>) Pattern**
 
 > Architetture **reactive-oriented** per app complesse.
 
