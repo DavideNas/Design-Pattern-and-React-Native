@@ -61,7 +61,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🔄 **6. Command/Intent Pattern**
+### 🔄 **6. [Command](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Command.md>) / Intent Pattern**
 
 > Le azioni (Intent) sono comandi che modificano lo stato:
 
