@@ -27,7 +27,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🧩 **3. Observer Pattern**
+### 🧩 **3. [Observer Pattern](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Observer/Observer.md>)**
 
 > React (e librerie come MobX, Zustand) usano il pattern Observer:
 
