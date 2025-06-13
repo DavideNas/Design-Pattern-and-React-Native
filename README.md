@@ -38,7 +38,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🧰 **4. Factory Pattern**
+### 🧰 **4. [Factory Pattern](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Factory%20Method.md>)**
 
 > Usato per creare componenti o configurazioni dinamiche.
 
