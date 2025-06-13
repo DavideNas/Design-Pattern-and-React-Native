@@ -72,7 +72,7 @@ React Native è un framework flessibile, orientato alla composizione. I pattern 
 
 ---
 
-### 🌐 **7. Adapter Pattern**
+### 🌐 **7. [Adapter Pattern](<https://github.com/DavideNas/Design-Patterns-and-Angular/blob/main/Patterns%20Example/Adapter.md>)**
 
 > Serve ad **astrarre librerie native, API o bridge JS-Native**.
 
